@@ -1,0 +1,16 @@
+com\musicplugin\music\MusicManager.class
+com\musicplugin\config\ConfigManager.class
+com\musicplugin\music\MusicTrack.class
+com\musicplugin\gui\PlaySettingsGUI.class
+com\musicplugin\music\MusicManager$1.class
+com\musicplugin\gui\GUIListener.class
+com\musicplugin\gui\GUIUtils.class
+com\musicplugin\music\MusicManager$2.class
+com\musicplugin\music\MusicPlayerManager.class
+com\musicplugin\gui\GUIListener$1.class
+com\musicplugin\gui\PlaySettingsGUI$Session.class
+com\musicplugin\gui\PlaySettingsGUI$TargetType.class
+com\musicplugin\NBSMusicPlugin.class
+com\musicplugin\command\MusicCommand.class
+com\musicplugin\gui\GUIListener$2.class
+com\musicplugin\gui\MusicBrowserGUI.class

@@ -1,0 +1,33 @@
+messages:
+  prefix: "&6[NBSMusic]&r "
+  no-permission: "&c你没有权限执行该操作。"
+  player-only: "&c该命令只能由玩家执行。"
+  player-not-found: "&c未找到该玩家。"
+  music-not-found: "&c未找到对应音乐。"
+  world-not-found: "&c未找到对应世界。"
+  reloaded: "&a插件配置与音乐缓存已重载。"
+  playback-started: "&a已开始播放音乐: &f%s"
+  playback-stopped: "&e已停止当前播放。"
+  target-playback-started: "&a已为玩家 &f%s &a播放音乐: &f%s"
+  global-playback-started: "&a已向全服播放音乐: &f%s"
+  world-playback-started: "&a已向世界 &f%s &a播放音乐: &f%s"
+
+settings:
+  auto-refresh-on-gui-open: true
+  default-3d-enabled: false
+  default-3d-range: 16
+  min-3d-range: 4
+  max-3d-range: 64
+  gui-size: 54
+  songs-per-page: 45
+  music-item-material: JUKEBOX
+  info-item-material: PAPER
+  control-item-material: NOTE_BLOCK
+
+paths:
+  music-folder: music
+
+gui:
+  title: "&6&lNBS 音乐列表"
+  settings-title: "&e&l播放设置"
+  empty-slot-name: "&7暂无内容"

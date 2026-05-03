@@ -1,0 +1,19 @@
+name: NBSMusicPlugin
+main: com.musicplugin.NBSMusicPlugin
+version: 1.0.0
+author: Cline
+description: Paper 1.8.8 NBS music player plugin with GUI and NoteBlockAPI support.
+
+commands:
+  music:
+    description: Open the music GUI or manage music playback.
+    usage: /music [play|playall|world|stop|reload]
+    aliases: [nbsmusic]
+
+permissions:
+  nbsmusic.use:
+    description: Allows using the music GUI and basic playback commands.
+    default: true
+  nbsmusic.admin:
+    description: Allows reloading music, global playback and world playback.
+    default: op
